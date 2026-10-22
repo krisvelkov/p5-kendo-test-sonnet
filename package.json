@@ -10,6 +10,19 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@progress/kendo-data-query": "^1.7.4",
+    "@progress/kendo-licensing": "^1.11.3",
+    "@progress/kendo-react-buttons": "^16.2.0",
+    "@progress/kendo-react-data-tools": "^16.2.0",
+    "@progress/kendo-react-dateinputs": "^16.2.0",
+    "@progress/kendo-react-dialogs": "^16.2.0",
+    "@progress/kendo-react-form": "^16.2.0",
+    "@progress/kendo-react-grid": "^16.2.0",
+    "@progress/kendo-react-inputs": "^16.2.0",
+    "@progress/kendo-react-intl": "^16.2.0",
+    "@progress/kendo-react-labels": "^16.2.0",
+    "@progress/kendo-react-layout": "^16.2.0",
+    "@progress/kendo-theme-default": "^14.7.0",
     "react": "^19.3.1",
     "react-dom": "^19.3.1"
   },
